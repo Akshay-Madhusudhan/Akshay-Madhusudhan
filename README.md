@@ -1,4 +1,4 @@
-### Hi!
+## Hi!
 ## Just starting out on my GitHub journey with some experience in:
 ## Python
 ## SQL
