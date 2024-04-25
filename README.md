@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### Hi!
+## Just starting out on my GitHub journey with some experience in:
+## Python
+## SQL
+## C
+## R Script
+## Java
 <!--
 **Akshay-Madhusudhan/Akshay-Madhusudhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
